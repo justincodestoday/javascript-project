@@ -1,4 +1,4 @@
-// Problem 2
+// Problem 2 - Group Anagrams
 // Solution 1
 // Time: O(n * n log n)
 // Space: O(n)
