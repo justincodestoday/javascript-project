@@ -1,4 +1,4 @@
-// Problem 4
+// Problem 4 - Jump Game
 // Solution 1
 // Time: O(n)
 // Space: O(1)
