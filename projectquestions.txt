@@ -1,0 +1,32 @@
+50 MARKS
+5 easy level questions (5 or 6q codewars)
+
+
+
+65 MARKS
+4 medium level questions (3 or 4q)
+
+
+
+
+80 MARKS
+3 hard level questions (1 or 2q)
+with illustration and step by step explanation
+
+
+
+
+Note: Should not be the same data structure
+array
+graph
+string
+sorting
+searching
+greedy algorithms
+dynamic programming
+recursion
+
+
+->Analyze the input/output structure
+->Conceptual overview
+->Code walkthrough
